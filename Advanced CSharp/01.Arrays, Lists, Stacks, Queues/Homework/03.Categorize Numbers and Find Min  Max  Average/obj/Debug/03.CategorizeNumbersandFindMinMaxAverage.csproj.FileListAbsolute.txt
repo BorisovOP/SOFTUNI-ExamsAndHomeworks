@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\01.H-Arrays, Lists, Stacks, Queues\03\bin\Debug\03.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\01.H-Arrays, Lists, Stacks, Queues\03\obj\Debug\03.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\01.H-Arrays, Lists, Stacks, Queues\03\obj\Debug\03.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\01.H-Arrays, Lists, Stacks, Queues\03\bin\Debug\03.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\01.H-Arrays, Lists, Stacks, Queues\03\bin\Debug\03.pdb
+C:\SOFTUNI-LAST\SoftUni-master\Advanced CSharp\01.Arrays, Lists, Stacks, Queues\Homework\03.Categorize Numbers and Find Min  Max  Average\bin\Debug\03.exe.config
+C:\SOFTUNI-LAST\SoftUni-master\Advanced CSharp\01.Arrays, Lists, Stacks, Queues\Homework\03.Categorize Numbers and Find Min  Max  Average\obj\Debug\03.exe
+C:\SOFTUNI-LAST\SoftUni-master\Advanced CSharp\01.Arrays, Lists, Stacks, Queues\Homework\03.Categorize Numbers and Find Min  Max  Average\obj\Debug\03.pdb

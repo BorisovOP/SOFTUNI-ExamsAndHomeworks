@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\01.H-Arrays, Lists, Stacks, Queues\07\bin\Debug\07.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\01.H-Arrays, Lists, Stacks, Queues\07\obj\Debug\07.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\01.H-Arrays, Lists, Stacks, Queues\07\obj\Debug\07.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\01.H-Arrays, Lists, Stacks, Queues\07\bin\Debug\07.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\01.H-Arrays, Lists, Stacks, Queues\07\bin\Debug\07.pdb
+C:\SOFTUNI-LAST\SoftUni-master\Advanced CSharp\01.Arrays, Lists, Stacks, Queues\Homework\07.Sorted Subset Sums\bin\Debug\07.exe.config
+C:\SOFTUNI-LAST\SoftUni-master\Advanced CSharp\01.Arrays, Lists, Stacks, Queues\Homework\07.Sorted Subset Sums\obj\Debug\07.exe
+C:\SOFTUNI-LAST\SoftUni-master\Advanced CSharp\01.Arrays, Lists, Stacks, Queues\Homework\07.Sorted Subset Sums\obj\Debug\07.pdb
